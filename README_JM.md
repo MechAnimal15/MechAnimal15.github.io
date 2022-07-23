@@ -29,3 +29,5 @@ Get started with AzCopy, https://docs.microsoft.com/en-us/azure/storage/common/s
 
 7/23/2020
 Map a custom domain with HTTPS enabled,  https://docs.microsoft.com/en-us/azure/storage/blobs/storage-custom-domain-name?tabs=azure-portal#map-a-custom-domain-with-https-enabled
+
+Tutorial: Host a static website on Blob Storage, https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website-host
