@@ -26,3 +26,6 @@ Correlation ID: 1a758289-3c91-4bd5-be53-98d29ea13870
 Get started with AzCopy, https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10
 
 "madebygps" github template, https://github.com/madebygps/cgc-azure-resume (new folder frontend/backend)
+
+7/23/2020
+Map a custom domain with HTTPS enabled,  https://docs.microsoft.com/en-us/azure/storage/blobs/storage-custom-domain-name?tabs=azure-portal#map-a-custom-domain-with-https-enabled
