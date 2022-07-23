@@ -31,3 +31,6 @@ Get started with AzCopy, https://docs.microsoft.com/en-us/azure/storage/common/s
 Map a custom domain with HTTPS enabled,  https://docs.microsoft.com/en-us/azure/storage/blobs/storage-custom-domain-name?tabs=azure-portal#map-a-custom-domain-with-https-enabled
 
 Tutorial: Host a static website on Blob Storage, https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website-host
+
+Can't create azure CDN Endpoint "We couldn't create your CDN endpoint", https://docs.microsoft.com/en-us/answers/questions/427457/can39t-create-azure-cdn-endpoint-34we-couldn39t-cr.html
+    Apparently you cant use a "Student" account, must upgrade to a regular account
