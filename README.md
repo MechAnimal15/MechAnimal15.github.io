@@ -2,7 +2,7 @@
 
 Here is my solution to the [Azure Resume Challenge](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-in-azure)
 
-/* Visit my Azure website [here](https://mechawebsite.z13.web.core.windows.net/) */
+/* Visit my Azure website [here](https://mywebsite2025.z20.web.core.windows.net/) */
 
 
 
